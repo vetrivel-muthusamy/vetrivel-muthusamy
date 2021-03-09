@@ -1,10 +1,8 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey, nice to see you.</h1>
 
-**vetrivel-muthusamy/vetrivel-muthusamy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 <p align="left">
-<a href="https://twitter.com/itsme_vetri" target="_blank"><img height="30" src="https://raw.githubusercontent.com/vetrivel-muthusamy/vetrivel-muthusamy/main/Resources/png/twitter.png?raw=true"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/vetrivel-muthusamy/" target="_blank"><img height="30" src="https://raw.githubusercontent.com/vetrivel-muthusamy/vetrivel-muthusamy/main/Resources/png/linkedin.png?raw=true"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://twitter.com/itsme_vetri" target="_blank"><img height="30" src="https://github.com/vetrivel-muthusamy/vetrivel-muthusamy/blob/firstChange/Resources/png/twitter.png?raw=true"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/vetrivel-muthusamy/" target="_blank"><img height="30" src="https://github.com/vetrivel-muthusamy/vetrivel-muthusamy/blob/firstChange/Resources/png/linkedin.png?raw=true"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <!--
 <a href="https://www.instagram.com/abhishek_maira10/" target="_blank"><img height="30" src="https://image.flaticon.com/icons/svg/725/725278.svg"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://open.spotify.com/user/8q058td4ynjeztfx5io86m5pt" target="_blank"><img height="30" src="https://raw.githubusercontent.com/AbhishekMaira10/AbhishekMaira10/master/Resources/png/spotify.png?raw=true"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -14,7 +12,7 @@
 
 <br>
 
-Hi, I'm [Vetrivel Muthusamy](), a web and app developer 👨🏻‍💻 from India. I'm a creative problem solving enthusiast and a product guy, with a constantly growing love for kick ass products.I'm proud to say that **I can succesfully center an element with css.** Beside's Hacking stuff, I play chess ♘ and Fifa ⚽.
+Hi, I'm [Vetrivel Muthusamy](), a web and app developer 👨🏻‍💻 from India. I'm a creative problem solving enthusiast and a product guy, with a constantly growing love for kick ass products.
 
 <br>
 
